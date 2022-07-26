@@ -1,8 +1,10 @@
 ### Hi there,
 
-   My name is Melody Boy, I am currently studying at 42 School Nice. Thus, I am a beginner in the field, but no less than a true passionate about new technologies.    Especially those who help me bring out my creativity (graphics, web development, UI and UX design, etc.).
+Je suis Melody BOY, étudiante et stagiaire à 42 nice Région-Sud.
+Ma formation, quoique principalement en C et C++, m'a permis d'acquérir diverses compétences et d'apprendre différentes technologies telles que Docker, JS, react Js, Python, Django, etc. Aujourd'hui, je cherche à continuer mes études en développement Web, tout en me développant professionnellement par le biais de diverses expériences, y compris mon stage actuel.
 
-   Je m'appelle Melody Boy, j'étudie actuellement à 42 Nice. De fait, je suis débutante dans le doorigine mais pas des moins passionnées par les nouvelles                technologies. Et tout particulièrement celle qui m'aide à libérer ma créativité (graphisme, développement Web, design UI et UX).
+I am Melody BOY, student and intern at 42 nice Région-Sud.
+My training, although mainly in C and C++, allowed me to acquire many skills and learn various technologies such as Docker, JS, react Js, Python, Django, etc. Today, I am looking to pursue my studies in web development, while growing professionally through various experiences, including my current internship.
 
 <p align="center">
    <ins>42 Student Details</ins>
@@ -10,7 +12,7 @@
 
 <p align="center">
   <img src="https://github.com/mboy29/mboy29/blob/origin/Status42.png"/>
-</p>
+42</p>
 
 <p align="center">
   <img src="https://github.com/mboy29/mboy29/blob/origin/Level42.png"/>
