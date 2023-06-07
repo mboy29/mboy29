@@ -1,10 +1,10 @@
 ### Hi there,
 
-Je suis Melody BOY, étudiante et stagiaire à 42 nice Région-Sud.
-Ma formation, quoique principalement en C et C++, m'a permis d'acquérir diverses compétences et d'apprendre différentes technologies telles que Docker, JS, react Js, Python, Django, etc. Aujourd'hui, je cherche à continuer mes études en développement Web, tout en me développant professionnellement par le biais de diverses expériences, y compris mon stage actuel.
+Je suis Melody BOY, étudiante et alternante à 42 nice Région-Sud.
+Ma formation, quoique principalement en C et C++, m'a permis d'acquérir diverses compétences et d'apprendre différentes technologies telles que Docker, JS, React Js, Python, Django, etc. Aujourd'hui, je cherche à continuer mes études en développement Web, tout en me développant professionnellement par le biais de diverses expériences, y compris mon stage actuel.
 
-I am Melody BOY, student and intern at 42 nice Région-Sud.
-My training, although mainly in C and C++, allowed me to acquire many skills and learn various technologies such as Docker, JS, react Js, Python, Django, etc. Today, I am looking to pursue my studies in web development, while growing professionally through various experiences, including my current internship.
+I am Melody BOY, student and trainee at 42 nice Région-Sud.
+My training, although mainly in C and C++, allowed me to acquire many skills and learn various technologies such as Docker, JS, React Js, Python, Django, etc. Today, I am looking to pursue my studies in web development, while growing professionally through various experiences, including my current apprenticeship.
 
 <p align="center">
    <ins>42 Student Details</ins>
