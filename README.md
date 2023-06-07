@@ -12,7 +12,7 @@ My training, although mainly in C and C++, allowed me to acquire many skills and
 
 <p align="center">
   <img src="https://github.com/mboy29/mboy29/blob/origin/Status42.png"/>
-42</p>
+</p>
 
 <p align="center">
    <img src="https://github.com/mboy29/mboy29/blob/origin/Level.png"/>
