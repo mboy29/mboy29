@@ -1,10 +1,9 @@
 ### Hi there,
 
-Je suis Melody BOY, étudiante et alternante à 42 nice Région-Sud.
-Ma formation, quoique principalement en C et C++, m'a permis d'acquérir diverses compétences et d'apprendre différentes technologies telles que Docker, JS, React Js, Python, Django, etc. Aujourd'hui, je cherche à continuer mes études en développement Web, tout en me développant professionnellement par le biais de diverses expériences, y compris mon stage actuel.
+I am a recent graduate specialized in web development, with expertise in database architecture and data management. As a UI/UX designer and graphic artist, I not only develop complete applications from scratch but also craft full brand identities. From designing logos, visual guidelines, and brand strategies to creating and developing tailored websites, I ensure a cohesive and impactful digital presence.
 
-I am Melody BOY, student and trainee at 42 nice Région-Sud.
-My training, although mainly in C and C++, allowed me to acquire many skills and learn various technologies such as Docker, JS, React Js, Python, Django, etc. Today, I am looking to pursue my studies in web development, while growing professionally through various experiences, including my current apprenticeship.
+Je suis une jeune diplômée spécialisée dans le développement web, avec une expertise dans l'architecture des bases de données et la gestion des données. En tant que designer UI/UX et graphiste, je développe non seulement des applications complètes à partir de zéro, mais je conçois également des identités de marque complètes. De la conception de logos, de directives visuelles et de stratégies de marque à la création et au développement de sites web sur mesure, je garantis une présence numérique cohérente et percutante.
+
 
 <p align="center">
    <ins>42 Student Details</ins>
