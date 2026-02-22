@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mboy29/mboy29/blob/origin/https://capsule-render.vercel.app/api?type=waving&height=110&text=Hi%20there%20!&fontColor=f1f1f1&color=gradient&customColorList=,30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=Hi%20there%20!&fontColor=f1f1f1&color=gradient&customColorList=,30" />
 </p>
 
 I'm Melody, a Full-Stack Developer specializing in modern web applications, with a strong focus on Front-End architecture and user experience.
@@ -82,5 +82,5 @@ experience:
 </div>
 
 <p align="center">
-  <img src="https://github.com/mboy29/mboy29/blob/origin/https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=,30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=,30" />
 </p>
