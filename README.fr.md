@@ -87,6 +87,10 @@ expérience:
   <img src="https://github.com/mboy29/mboy29/blob/origin/assets/uidesignstack/canva.svg" height="30" style="margin:5px;" />
 </div>
 
+Bien que mon activité principale soit le développement logiciel, je réalise également des projets en UI/UX et design visuel.
+
+📄 [Télécharger le portfolio (PDF)](https://github.com/mboy29/mboy29/raw/main/assets/portfolio/PortfolioMelodyBoy.pdf)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=,30"
    style="width:100%;"
