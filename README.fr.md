@@ -1,35 +1,36 @@
-🇬🇧 English | 🇫🇷 [Version Française](README.fr.md)
+🇫🇷 Version Française | 🇬🇧 [English Version](README.md)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=Hi%20there%20!&fontColor=f1f1f1&color=gradient&customColorList=,30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=Bonjour%20!&fontColor=4A3F35&color=gradient&customColorList=30" />
 </p>
 
-I'm Melody, a Full-Stack Developer specializing in modern web applications, with a strong focus on Front-End architecture and user experience.
-I design and build scalable web applications from database to interface, with particular attention to performance, maintainability and user experience.
+Je suis Melody, développeuse Full-Stack spécialisée dans les applications web modernes, avec une forte appétence pour l’architecture front-end et l’expérience utilisateur.
 
-My background in visual design allows me to bridge the gap between engineering and product, delivering interfaces that are both technically robust and visually coherent.
+Je conçois et développe des applications web évolutives, de la base de données jusqu’à l’interface, avec une attention particulière portée à la performance, à la maintenabilité et à la qualité de l’expérience produit.
 
-Currently building product-oriented applications and continuously deepening my expertise in scalable front-end systems.
+Mon parcours en design visuel me permet de faire le lien entre ingénierie et produit, afin de créer des interfaces à la fois robustes techniquement et cohérentes visuellement.
+
+Je développe actuellement des applications orientées produit et approfondis continuellement mon expertise en architecture front-end scalable.
 
 ```yaml
 name: Melody Boy
-location: Antibes, France
-role: Freelance Full-Stack Developer (Front-End & UX focused)
-languages: ["French (Native)", "English (Native)"]
+localisation: Antibes, France
+rôle: Développeuse Full-Stack Freelance (orientée Front-End & UX)
+langues: ["Français (Langue maternelle)", "Anglais (Langue maternelle)"]
 
-education:
-  ["RNCP Level 7 – Software & Database Architecture"]
+formation:
+  ["RNCP Niveau 7 – Architecture logicielle & bases de données"]
 
-experience:
+expérience:
   [
-    "Full-Stack Developer & UI/UX Designer — Freelance",
-    "Technical & Pedagogical Assistant — 42 Nice (Apprenticeship + Internship)"
+    "Développeuse Full-Stack & UI/UX — Freelance",
+    "Assistante Technique & Pédagogique — 42 Nice (Alternance & Stage)"
   ]
-````
+```
 
-## Tech Stack
+## Stack Technique
 
-#### Front-End - Building interactive, scalable and accessible interfaces.
+#### Front-End — Conception d’interfaces interactives, évolutives et accessibles.
 
 <div align="left">
   <img src="https://github.com/mboy29/mboy29/blob/origin/assets/techstack/frontend/svelte.svg" height="30" style="margin:5px;" />
@@ -43,7 +44,7 @@ experience:
   <img src="https://github.com/mboy29/mboy29/blob/origin/assets/techstack/frontend/bootstrap.png" height="30" style="margin:5px;" />
 </div>
 
-#### Back-End - Designing APIs and application logic.
+#### Back-End — Conception d’APIs et logique applicative.
 
 <div align="left">
   <img src="https://github.com/mboy29/mboy29/blob/origin/assets/techstack/backend/nodejs.svg" height="30" style="margin:5px;" />
@@ -52,7 +53,7 @@ experience:
   <img src="https://github.com/mboy29/mboy29/blob/origin/assets/techstack/backend/django.png" height="30" style="margin:5px;" />
 </div>
 
-#### Databases - Structuring and managing data efficiently.
+#### Bases de données — Structuration et gestion efficace des données.
 
 <div align="left">
   <img src="https://github.com/mboy29/mboy29/blob/origin/assets/techstack/databases/postgres.png" height="30" style="margin:5px;" />
@@ -60,7 +61,7 @@ experience:
   <img src="https://github.com/mboy29/mboy29/blob/origin/assets/techstack/databases/mariadb.png" height="30" style="margin:5px;" />
 </div>
 
-#### Dev & Tools - Version control, containerization and development environments.
+#### Dev & Outils — Gestion de version, conteneurisation et environnements de développement.
 
 <div align="left">
   <img src="https://github.com/mboy29/mboy29/blob/origin/assets/techstack/devtools/git.png" height="30" style="margin:5px;" />
@@ -73,7 +74,7 @@ experience:
   <img src="https://github.com/mboy29/mboy29/blob/origin/assets/techstack/devtools/macos.png" height="30" style="margin:5px;" />
 </div>
 
-#### UI / Design Stack - Translating product vision into intuitive and consistent user experiences.
+#### UI / Design — Traduction de la vision produit en expériences utilisateurs intuitives et cohérentes.
 
 <div align="left">
   <img src="https://github.com/mboy29/mboy29/blob/origin/assets/uidesignstack/figma.png" height="30" style="margin:5px;" />
