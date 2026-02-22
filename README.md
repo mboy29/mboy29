@@ -88,7 +88,7 @@ experience:
 
 While my primary focus is software engineering, I also work on UI/UX and visual design projects.
 
-📄 [Download Design Portfolio (PDF)](https://github.com/mboy29/mboy29/raw/main/assets/portfolio/PortfolioMelodyBoy.pdf)
+📄 [Download Design Portfolio (PDF)](https://github.com/mboy29/mboy29/blob/origin/assets/portfolio/PortfolioMelodyBoy.pdf)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=,30"
