@@ -1,7 +1,10 @@
 🇫🇷 Version Française | 🇬🇧 [English Version](README.md)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=Bonjour%20!&fontColor=4A3F35&color=gradient&customColorList=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=Bonjour%20!&fontColor=4A3F35&color=gradient&customColorList=30"
+  style="width:100%;"
+   alt="header"
+   />
 </p>
 
 Je suis Melody, développeuse Full-Stack spécialisée dans les applications web modernes, avec une forte appétence pour l’architecture front-end et l’expérience utilisateur.
@@ -85,5 +88,8 @@ expérience:
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=,30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=,30"
+   style="width:100%;"
+   alt="footer"
+   />
 </p>
